@@ -1,30 +1,36 @@
-# Fonacier Portfolio - React + Vite
 
-A ready-to-deploy React portfolio website for Fonacier Jr. Balatero, Senior WordPress Developer.
+=======
+# Fonacier Portfolio
 
-## Run locally
+A modern portfolio website built with React and Vite, showcasing over 9 years of experience in WordPress development, WooCommerce, LMS platforms, payment gateway integrations, technical SEO, and website performance optimization.
 
-```bash
-npm install
-npm run dev
-```
+## Featured Projects
 
-Open the local URL shown in your terminal, usually `http://localhost:5173`.
+- Faith & Learning
+- Executive Legal
+- Ellis Family Law
+- EMERG NC
+- CrossBot Japan
+- FKB Academy
+- Shop Haven Inc.
+- Lincoln Albania
+- Sarah Nicole Virtual
+- Stylish Island Inc.
 
-## Build for production
+## Technologies
 
-```bash
-npm run build
-npm run preview
-```
+- React
+- Vite
+- WordPress
+- WooCommerce
+- Elementor
+- Divi
+- JavaScript
+- Bootstrap
+- Technical SEO
+- Payment Gateway Integration
 
-## Customize
+## Live Portfolio
 
-- Edit portfolio content in `src/App.jsx`
-- Edit styles in `src/styles.css`
-- Add your resume as `public/resume.pdf` if you want the Download Resume button to work
-- Replace the FB placeholder with your image later
-
-## Deploy
-
-You can deploy this to Vercel, Netlify, or GitHub Pages.
+https://fonacier-portfolio.vercel.app
+>>>>>>> 9bb415ef55358619a57e3950ec3313d4cf115c97
