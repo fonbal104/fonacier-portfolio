@@ -585,7 +585,7 @@ function App() {
               <h2 className="section-title">9+ years of building and supporting websites.</h2>
             </div>
             <div className="journey-copy">
-              <p><strong>2017 – Present:</strong> Senior WordPress Developer focused on website development, theme customization, SEO optimization, troubleshooting, and long-term client support.</p>
+              <p><strong>2017 – Present:</strong> Senior WordPress Developer & WooCommerce Specialist focused on website development, theme customization, Technical SEO optimization, troubleshooting, and long-term client support.</p>
               <p>Experience across education, legal services, healthcare, event websites, virtual assistance brands, and business marketing websites.</p>
             </div>
           </Card>
